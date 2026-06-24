@@ -1,9 +1,7 @@
 <h1 align="center">Burak Ahmet Han Kırlak</h1>
 <h3 align="center">Software Engineering Student — Istanbul Atlas University</h3>
 
-<p align="center">
-  <i>"Sürecim, yüzeyselliğin reddidir." — My process is the rejection of superficiality.</i>
-</p>
+
 
 <p align="center">
   <a href="https://burakkirlak.info/"><img src="https://img.shields.io/badge/Website-burakkirlak.info-000000?style=flat-square&logo=googlechrome&logoColor=white"></a>
