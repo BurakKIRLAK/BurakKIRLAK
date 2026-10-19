@@ -9,7 +9,7 @@
 
 ### About
 
-First-year Software Engineering student. I build small, working software instead of waiting to "feel ready."
+Second-year Software Engineering student. I build small, working software instead of waiting to "feel ready."
 
 I use AI tools to prototype quickly — but I don't treat AI output as finished work. My current focus is closing the gap between "I made something that runs" and "I understand every part of what I made." Projects in this profile are labeled honestly: some are AI-assisted prototypes I'm still learning from, others are written and understood by me end-to-end.
 
